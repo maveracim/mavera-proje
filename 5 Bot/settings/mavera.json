@@ -1,0 +1,22 @@
+{
+    "tokens":{
+        "moderation":"",
+        "logger":""
+    },
+    "prefix":{
+        "moderation":"",
+        "logger":"!"
+    },
+    
+    "ready":"",
+    "developer":"",
+    "logName":"",
+    "textColor":"fix",
+
+    "systems":{
+        "moderation":true,
+        "logger":true,
+        "everyoneMention":false,
+        "hereMention":false
+    }
+}
