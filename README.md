@@ -7,7 +7,7 @@
 * `5 Bot` projesinin kurulumu çok basit arkadaşlar, settings/mavera.json dosyamıza geliyoruz ve oradan kurulumları tamamlıyoruz.
 * `logName:` logger botunun atacağı log kanal __ismi__.
 * `textColor:` Renkli yazı yazma kodudur, kodları bilmeyenler için buradan(https://www.hatauzmani.com/discord-renkli-yazi-yazma) ulaşabilirsiniz.
-* `system.moderation:`Moderasyon botunun açık olmasını istiyorsanız tokeni girdikten sonra değerini `true` olarak ayarlayın. Kapalı olması içinse `false` olarak ayarlayın.
-* `system.logger:`Logger botunun açık olmasını istiyorsanız tokeni girdikten sonra değerini `true` olarak ayarlayın. Kapalı olması içinse `false` olarak ayarlayın.
-* `everyoneMention:` Logger botunun log kanalına mesaj atarken @everyone etiketini atmasınzı istiyorsanız `true` olarak ayarlayın.
-* `hereMention:` Logger botunun log kanalına mesaj atarken @here etiketini atmasınzı istiyorsanız `true` olarak ayarlayın.
+* `system.moderation:`Moderasyon botunun açık olmasını istiyorsanız tokeni girdikten sonra değerini **true** olarak ayarlayın. Kapalı olması içinse **false** olarak ayarlayın.
+* `system.logger:`Logger botunun açık olmasını istiyorsanız tokeni girdikten sonra değerini **true** olarak ayarlayın. Kapalı olması içinse **false** olarak ayarlayın.
+* `everyoneMention:` Logger botunun log kanalına mesaj atarken @everyone etiketini atmasınzı istiyorsanız **true** olarak ayarlayın.
+* `hereMention:` Logger botunun log kanalına mesaj atarken @here etiketini atmasınzı istiyorsanız **true** olarak ayarlayın.
