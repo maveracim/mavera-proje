@@ -1,0 +1,4 @@
+# LOG CHANNELS
+
+* command_log
+* ban_log
