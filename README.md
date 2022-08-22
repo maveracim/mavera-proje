@@ -11,3 +11,4 @@
 * `system.logger:`Logger botunun açık olmasını istiyorsanız tokeni girdikten sonra değerini **true** olarak ayarlayın. Kapalı olması içinse **false** olarak ayarlayın.
 * `everyoneMention:` Logger botunun log kanalına mesaj atarken @everyone etiketini atmasınzı istiyorsanız **true** olarak ayarlayın.
 * `hereMention:` Logger botunun log kanalına mesaj atarken @here etiketini atmasınzı istiyorsanız **true** olarak ayarlayın.
+> Diğer gerekli şeyler için info/includes ve info/requirements dosyalarına bakmayı ihmal etme!
