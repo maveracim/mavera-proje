@@ -1,1 +1,1 @@
-# Birkaç öğretici bir şey fırlatırım kullanırsın.
+# DUR BEKLE YAZIYOM
