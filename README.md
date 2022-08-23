@@ -4,7 +4,7 @@
 * Dostlar projeye yeni başladım ve gördüğünüz gibi henüz ikisi de bitmemiş vaziyette, sadece taslağını paylaştım belki kendiniz yapmak istersiniz diye. Tabi ki kendim yapıp atacağım ama beklemek istemeyenler için :)
 * Ayrıca proje `5 Bot` klasöründen ibaret değil, devamı yakında gelecek. Siz star atmanız bakın!
 # Haha Pm2 Yapmayı Bilmiyor :D
-* Biliyorum ucube evladı tatava yapma biri pm2 yapınca herkes yapmaya başladı bana çok saçma geldi bi sike yaramıyor ben de pm2 tarzı klasik devam ediyorum laf etme ırzını 😁
+* Biliyorum ucube evladı tatava yapma biri pm2 yapınca herkes yapmaya başladı bana çok saçma geldi bi sike yaramıyor ben de pm2 tarzı klasik devam ediyorum
 # Bilgilendirme ve Kurulum:
 * `5 Bot` projesinin kurulumu çok basit arkadaşlar, settings/mavera.json dosyamıza geliyoruz ve oradan kurulumları tamamlıyoruz.
 * `logName:` logger botunun atacağı log kanal __ismi__.
