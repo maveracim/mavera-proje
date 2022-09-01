@@ -1,0 +1,22 @@
+{
+    "mongoDB":"",
+    "ready":["Mavera ❤️", "❤️ Mavera"],
+    "footer":"Mavera ❤️",
+    "status":"dnd",
+    "prefixes":{
+        "moderation":"."
+    },
+    "developers":["renk rollerini isimle çektiriyorum buraya da kendi idni gir"],
+
+    "beyaz":"⚪",
+    "mor":"🟣",
+    "kırmızı":"🔴",
+    "turuncu":"🟠",
+    "yeşil":"🟢",
+    "sarı":"🟡",
+    "pembe":"🟣",
+
+    "yasaklıName":"yasaklı taga düşünce mesaj atacağı kanal",
+
+    "MODERATION:""
+}
