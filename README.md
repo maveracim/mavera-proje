@@ -5,7 +5,11 @@
 * Ayrıca proje `5 Bot` klasöründen ibaret değil, devamı yakında gelecek. Siz star atmanız bakın!
 # Haha Pm2 Yapmayı Bilmiyor :D
 * 3ube tatava yapma biri pm2 yapınca herkes yapmaya başladı bana çok saçma geldi bi sike yaramıyor ben de pm2 tarzı klasik devam ediyorum
-# Bilgilendirme ve Kurulum:
+# Public Bots Bilgilendirme & Kurulum:
+* Moderasyon botu tamamen mongoose'dir cezalandırma, rol ver-al-log ve birkaç sistem eksiktir yaptıkça repoyu güncelleyeceğim takipte kalmayı unutmayın!
+* Çok bi olayı yok mongo URL'nizi girdikten sonra developer yerine kendi ID'nizi girin ve kurulumlara başlayın.
+* Rol ver/al/log, ses verisi, moderasyon işlemleri, invite sistemi ve birkaç sistem eksik onları tamamlayıp botu atacağım. Star yükseldikçe ekip botları da gelecektir. 
+# 5 Proje Bilgilendirme ve Kurulum:
 * `5 Bot` projesinin kurulumu çok basit arkadaşlar, settings/mavera.json dosyamıza geliyoruz ve oradan kurulumları tamamlıyoruz.
 * `logName:` logger botunun atacağı log kanal __ismi__.
 * `textColor:` Renkli yazı yazma kodudur, kodları bilmeyenler için [buradan](https://www.hatauzmani.com/discord-renkli-yazi-yazma) ulaşabilirsiniz.
