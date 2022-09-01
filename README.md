@@ -6,7 +6,7 @@
 # Haha Pm2 Yapmayı Bilmiyor :D
 * 3ube tatava yapma biri pm2 yapınca herkes yapmaya başladı bana çok saçma geldi bi sike yaramıyor ben de pm2 tarzı klasik devam ediyorum
 # Public Bots Bilgilendirme & Kurulum:
-* Moderasyon botu tamamen mongoose'dir cezalandırma, rol ver-al-log ve birkaç sistem eksiktir yaptıkça repoyu güncelleyeceğim takipte kalmayı unutmayın!
+* Moderasyon botu tamamen mongoose'dir ekledikçe repoyu güncelleyeceğim takipte kalmayı unutmayın!
 * Çok bi olayı yok mongo URL'nizi girdikten sonra developer yerine kendi ID'nizi girin ve kurulumlara başlayın.
 * Rol ver/al/log, ses verisi, moderasyon işlemleri, invite sistemi ve birkaç sistem eksik onları tamamlayıp botu atacağım. Star yükseldikçe ekip botları da gelecektir. 
 # 5 Proje Bilgilendirme ve Kurulum:
