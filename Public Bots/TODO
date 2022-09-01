@@ -1,0 +1,27 @@
+# yapılacaklar
+* interactionMenu'de kpanel için 4,5,6,7 yapılacak
+
+# sistemler
+* kayıt sistemi 5 puan
+* taglı sistemi 20 puan
+
+# log kanalları
+
+* command_log
+* tag_aldırdı_log
+* mazeret_log
+* message_delete_log
+* message_update_log
+* join_left_log
+
+# emojiler
+
+* mavera_yes
+* mavera_no
+* mavera_star
+* mavera_blue
+* mavera_white
+* mavera_gift
+* mavera_tada
+* mavera_moon
+* mavera_kalp
